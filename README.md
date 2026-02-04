@@ -1,4 +1,6 @@
-Fraudulent Transaction Detection for Digital Money Transfer – Executive Summary
+### Fraudulent Transaction Detection for Digital Money Transfer – Executive Summary
+### 
+
 NovaPay Fraud Environment Overview
 
 NovaPay is a digital-first, cross-border money transfer platform headquartered in Toronto, operating across the UK, Canada, and the United States. The platform enables users to send, receive, and hold multiple currencies, processing millions of transactions monthly. While this international, real-time model delivers scalability and convenience, it also increases exposure to fraud and financial crime.
